@@ -13,7 +13,7 @@ public class linear_search {
         ele= sc.nextInt();
         for (int i=0;i< arr.length;i++){
             if (arr[i]==ele) {
-                System.out.println("element found at : " + i);
+                System.out.println("element found at : " + (i+1));
                 return;
             }
 
