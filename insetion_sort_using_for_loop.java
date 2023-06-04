@@ -1,5 +1,5 @@
 import java.util.*;
-public class insetion_sort {
+public class insertion_sort_using_for_loop {
     public static void main(String[] args) {
         int[] arr = new int[5];
         Scanner sc = new Scanner(System.in);
